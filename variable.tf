@@ -1,5 +1,5 @@
 variable "grafana_url" {
-  default = "http://54.209.123.216:3000/"
+  default = "http://colocar ip ou nome do servidor do grafana:3000/"
 }
 
 variable "grafana_api_key" {
